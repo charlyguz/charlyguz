@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on WEB APPS <br>  <img src= "https://media3.giphy.com/media/HzW4K6qyjQBSaXvjRh/giphy.gif?cid=790b76114d71e799f7c5f5a1c11c5023c3375bd2fde31ae7&rid=giphy.gif&ct=g"width="80"> <br> 
 - 🌱 I’m currently learning python (its my favorite language of programing)   <img src= "https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47o65h6j7ckz6xwo5iuggu33smbgddadui0a20sv9n&rid=giphy.gif&ct=g"width="30"> <br>
 - 👯 I’m looking to collaborate on AI technology <br> <img src= "https://media1.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif?cid=ecf05e472kuk0wuuoyb8836lbd7puyhfyw9rjac3j1g3jxob&rid=giphy.gif&ct=g"width="80"> <br>
-- 🤔 I’m looking for help with ...<img src= ""width="30"> <br>
 - 💬 Ask me about my proyects <br>
 - 📫 How to reach me: guzmancarl5610@gmail.com <br>
 - 😄 I really like work in team <br> <img src= "https://media2.giphy.com/media/NEU34P7OlWe1a/giphy.gif?cid=ecf05e473yrbfy37narc4l5t0umvvjrjlawo2nhrzvuckskw&rid=giphy.gif&ct=g"width="180"> <br>
