@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
+## Me
      [
         const Charly = {
           name: ['Charly'],
@@ -22,39 +22,7 @@
           challenge: 'I'm a student at IPN in Artificial Intelligence serching for a oportunity'
                       }
      ]
-     
-## Me     
-     
-     
-     [
-        {  
-            "name": "Charly", 
-            "old":  "22 years old", 
-            "study": "IPN"        
-        }
-        {       //Frameworks//
-            "VUE.JS": true,
-            "node.js":  true,
-            "boostrapV5:true, 
-        }
-        {       //Language//
-            "JavaScript":   true, 
-            "HTML/CSS": true, 
-            "Python": true
-        }
-        {       //Next objectives//
-            "Oracle": true,
-            "BigData": true,
-            "CiberSecurity": true
-            "IA": true
-        }
-        {
-            //CERTIFICATIONS
-            "MICROSOFT AZURE FUNDAMENTALS AZ-900"
-        }
-    ]
-    
-    
+ 
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/charlyguz/count.svg)
 ### Stats 
