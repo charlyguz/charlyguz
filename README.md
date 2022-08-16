@@ -12,8 +12,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
 ## Me
-     [
+    
+    [
         const Charly = {
           name: ['Charly'],
           code: ['Javascript','HTML', 'CSS', 'Python'], 
@@ -22,6 +24,7 @@
           challenge: 'I'm a student at IPN in Artificial Intelligence serching for a oportunity'
                       }
      ]
+ 
  
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/charlyguz/count.svg)
