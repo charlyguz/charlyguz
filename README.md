@@ -3,7 +3,7 @@
     
 <div> 
   <a href="https://twitter.com/Carlosgzm8" target="_blank"><img src="https://www.webxpro.es/wp-content/uploads/2014/11/twitter.jpg" height="40" width="100">    </a>
-  <a href="https://www.linkedin.com/in/carlos-guzman-688472165/" target="_blank"><img src="https://proinfluent.b-cdn.net/wp-content/uploads/2019/05/Logo-LinkedIn-officiel.png" height="30" width="120"></a>
+  <a href="https://www.linkedin.com/in/charlyDev/" target="_blank"><img src="https://proinfluent.b-cdn.net/wp-content/uploads/2019/05/Logo-LinkedIn-officiel.png" height="30" width="120"></a>
   <a href = "mailto:guzmancarl5610@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 <div style="display: inline_block"><br>
