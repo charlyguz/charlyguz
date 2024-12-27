@@ -1,58 +1,146 @@
-# Hi 👋 My name is Carlos
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+🌎;I+am+Charly;AI+Engineer+🤖;Competitive+Programmer+💻;Problem+Solver+🧠" alt="Typing SVG" />
+</div>
 
-Hello World! I'm **Carlos Guzmán**, aka **Charly**, an Artificial Intelligence Engineering student at **ESCOM - IPN**.
-
-🚀 **Passionate about technology**, I've led various projects and secured top spots in national and Latin American hackathons like **BBVA Hackathon**.
-
-🛠 **Tech Stack:**
-- Python
-- React.JS
-- Azure
-
-🌱 I'm actively seeking opportunities to contribute to technological advancement and apply my tech and software knowledge.
-
-👥 **Community & Leadership:**
-- Lead a hackathon community
-- Part of my school's algorithm club aiming for **ICPC** success
-
-💬 **Let's Connect!** I love collaborating with like-minded individuals to create innovative solutions.
-
-## 🚀 About Me    
-    [
-        const Charly = {
-          name: ['Charly'],
-          code: ['Javascript','HTML', 'CSS', 'Python'], 
-          tools: ['Azure'],
-          areas: ['IoT','Cloud', 'Data', 'AI', 'WEB', 'Front-End', 'Algorithms'],
-          about: 'Student in Artificial Intelligence Engineering at ESCOM - IPN | Web Developer | Machine Learning enthusiast'
-                      }
-     ]
- 
-## Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">
+  <a href="https://github.com/charlyguz?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/charlyguz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/charlyguz?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/charlyguz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
 </p>
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlyDev/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Carlosgzm8)
-[![twitter](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guzmancarl5610@gmail.com)
-### Socials
+I'm **Carlos Guzmán**, aka **Charly**, an Artificial Intelligence Engineering student at **ESCOM - IPN**. Passionate about turning complex problems into elegant solutions through code!
 
-<p align="left"> <a href="https://discord.com/users/charly808" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </p>
+## 🗾 International Research Experience
 
+During my time in Japan, I worked on cutting-edge projects at the intersection of AI and robotics:
 
-### Badges
+- 🤖 Developed real-time AI systems with 89% accuracy
+- 🚗 Created teleoperation systems using 5G technology
+- 🌏 Collaborated with international researchers in neuroscience and robotics
+- 🔬 Applied computer vision and deep learning to real-world challenges
 
-<b>My GitHub Stats</b>
+## 🚀 About Me    
+```javascript
+const Charly = {
+    name: ['Charly'],
+    code: ['Javascript', 'HTML', 'CSS', 'Python', 'C++'], 
+    tools: ['OpenCV', 'PyTorch', 'TensorFlow', 'Azure', 'GCP'],
+    areas: ['AI', 'Competitive Programming', 'Full Stack', 'Algorithms'],
+    about: 'AI Engineering Student | Competitive Programmer | Hackathon Champion',
+    currentFocus: [
+        "Solving one competitive programming problem daily",
+        "Advancing AI and machine learning capabilities"
+    ]
+}
+```
+## 🎯 What I'm Up To
 
-<a href="http://www.github.com/charlyguz"><img src="https://github-readme-stats.vercel.app/api?username=charlyguz&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="charlyguz's GitHub stats" /></a>
+- 🧠 Developing AI solutions and competing in hackathons
+- 🏆 Active participant in **ICPC** competitions
+- 📚 Teaching at ESCOM's Competitive Programming Club
+- 🌏 International experience developing AI & robotics in Japan
+- 🚀 Building innovative projects with cutting-edge tech
 
-<a href="https://github.com/charlyguz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlyguz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🏆 Achievements
+- 🥇 Multiple hackathon championships (Talent Land 2022-2024)
+- 🌟 Participated in Gran Prix México 2023 & 2024
+- 🤖 Developed AI systems with 89% accuracy
+- 🔬 Created innovative AI solutions for security and education
 
+## 💻 Technical Stack
+
+<div align="center">
+
+### Languages
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
+
+### AI/ML
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+
+### Web Development
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](#)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+
+### Cloud & Tools
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
+
+</div>
+
+## 🌟 Featured Projects
+
+### 🎯 AI Security System
+- Real-time threat detection using computer vision
+- Emergency response automation
+- `PyTorch` `OpenCV` `React`
+
+### 🤖 Brain-Computer Interface Project (Private Project)
+- Real-time obstacle detection system
+- Real time teledriving
+- `TensorFlow` `OpenCV` `Signal Processing` `Python`
+
+### 🗣️ AI Language Learning Platform
+- Speech synthesis with ElevenLabs AI
+- Natural language processing with GPT
+- `Python` `React` `AI APIs`
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/charlyDev">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Carlosgzm8">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:guzmancarl5610@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/charly808">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlyguz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=charlyguz&theme=tokyonight" alt="charlyguz"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charlyguz&theme=tokyo-night" alt="Contribution Graph" />
+</div>
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=charlyguz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="Github Trophy"/>
+  </a>
+</p>
+
+<div align="center">
+
+### 👀 Profile Views
+  
+![](https://komarev.com/ghpvc/?username=charlyguz&color=blue&style=for-the-badge)
 
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/charlyguz/count.svg)
+
+</div>
 
